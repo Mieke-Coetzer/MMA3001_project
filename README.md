@@ -60,7 +60,15 @@ MMA3001_project/
 
 ---
 ### Installation & Prerequisites
-Ensure you have Python 3.10+ installed. Clone this repository and install the required numerical and data science dependencies:
+Ensure you have Python 3.10+ installed. 
+Clone this repository and install all required dependencies:
+* numpy>=1.22.0
+* pandas>=1.4.0
+* scipy>=1.8.0
+* matplotlib>=3.5.0
+* pytest>=7.0.0
+* pdoc>=14.0.0
 
+---
 ### License
 This project is open-source and available under the [MIT License](LICENSE).
